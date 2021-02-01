@@ -1,2 +1,3 @@
-# -everyday
-每日打卡
+# 青柠打卡
+
+利用python requests库
