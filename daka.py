@@ -25,11 +25,11 @@ def tiwen_daka(s,headers):
             # 时间
             # ti = str(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))  # 获取时间，每次post都要更新时间，格式化成20xx-03-20 11:45:39形式
             ti_for_title = str(time.strftime("%Y-%m-%d", time.localtime()))  # 获取时间，这个时间是放在SBRQ里面
-            # 体温打卡数据,
+            # 体温打卡数据,更改ID和UID
             data_tiWen = {
-                "ID": "8500363",
+                "ID": "XXXXXXXXX",
                 "SBRQ": ti_for_title + " 00:00:00",
-                "UID": "1462170",
+                "UID": "XXXXXXXX",
                 "UType": "1",
                 "WSTJSJ": ti_for_title + " 15:01:01",
                 "WSTW": "36.5",
