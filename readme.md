@@ -8,7 +8,7 @@
 
 4.按要求将内容输入到 data_person.json 和 header.json文件
 
-![image-20210203210741448](images\image-20210203210741448.png)
+![image-20210203210741448](.images\image-20210203210741448.png)
 
 ![image-20210203210940247](images\image-20210203210940247.png)
 
