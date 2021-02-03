@@ -8,7 +8,7 @@
 
 4.按要求将内容输入到 data_person.json 和 header.json文件
 
-![image-20210203210741448](C:\Users\CHOU\AppData\Roaming\Typora\typora-user-images\image-20210203210741448.png)
+![image-20210203210741448][base64](C:\Users\CHOU\AppData\Roaming\Typora\typora-user-images\image-20210203210741448.png)
 
 ![image-20210203210940247](C:\Users\CHOU\AppData\Roaming\Typora\typora-user-images\image-20210203210940247.png)
 
@@ -35,4 +35,3 @@
 
 
 ![image-20210203213144168](C:\Users\CHOU\AppData\Roaming\Typora\typora-user-images\image-20210203213144168.png)
-
