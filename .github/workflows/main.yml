@@ -21,4 +21,4 @@ jobs:
         python -m pip install --upgrade pip
     - name: process
       run: |
-        test.py data.json
+        pythion3 test.py data.json
