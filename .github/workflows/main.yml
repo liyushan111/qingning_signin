@@ -1,7 +1,7 @@
-name: gouziyun_daka
+name: daka
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   schedule:
     - cron: "00 19 * * *"
 
