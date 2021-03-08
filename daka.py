@@ -61,7 +61,7 @@ if __name__ == '__main__':
     # 1.登陆并填体温
     s = login(headers=headers,data_person=data_person)
     tiwen_daka(s,headers=headers)
-    url="https://sc.ftqq.com/SCU164170T7357ee99e7e269aa01bc622239bf104160463d1c63fce.send?text=主人服务器又挂掉啦~"
+    url="https://sc.ftqq.com/SCU164170T7357ee99e7e269aa01bc622239bf104160463d1c63fce.send?text=今日李雨珊小宝贝的体温已经上报完成"
     requests.post(url)
 
 
